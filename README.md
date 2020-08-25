@@ -1,5 +1,5 @@
 # Hernikplays
-## Small czech developer
+ Small czech developer
 ## I Specialize in:
 **C#, NodeJS**
 

@@ -1,5 +1,5 @@
-<div style="text-align:center;">
- <h1> Hernikplays </h1>
+<center><div style="text-align:center;">
+ <h1 > Hernikplays </h1>
  <h3> Small czech developer </h3>
 <hr>
  <h3>I use:</h3>
@@ -11,3 +11,4 @@
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=hernikplays.hernikplays">
  </div>
+</center>

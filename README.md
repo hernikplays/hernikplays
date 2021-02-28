@@ -3,8 +3,6 @@
  
  <h3> Small czech developer </h3>
  <img src="https://visitor-badge.laobi.icu/badge?page_id=hernikplays.hernikplays">
-
-<hr>
  <h3>I use:</h3>
  <ul>
   <li>NodeJS</li>

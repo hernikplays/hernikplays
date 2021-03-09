@@ -1,4 +1,4 @@
-<center><div style="text-align:center;">
+<div align="center">
  <h1 > Hernikplays </h1>
  
  <h3> Small czech developer </h3>
@@ -13,4 +13,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernikplays&theme=dark&layout=compact"><br>
  </div>
-</center>
+

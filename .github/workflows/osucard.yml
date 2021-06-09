@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: OsuCard
-        uses: hernikplays/OsuCard@main
+        uses: catgirls-top/OsuCard@main
         with:
           osu-name: hernik
           client-id: a

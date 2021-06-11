@@ -18,5 +18,5 @@ jobs:
         uses: catgirls-top/OsuCard@main
         with:
           osu-name: hernik
-          client-id: a
-          client-secret: b
+          client-id: 7805
+          client-secret: ${{ secrets.OSU_SECRET }}

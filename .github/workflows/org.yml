@@ -13,6 +13,7 @@ jobs:
         with:
           token: ${{ secrets.KEY }}
           # Options
+          filename: org-metrics.svg
           user: catgirls-top
           template: classic
           base: header, activity, community, repositories, metadata
